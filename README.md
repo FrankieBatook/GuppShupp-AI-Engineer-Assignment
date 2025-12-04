@@ -28,22 +28,22 @@ The project implements a separation of concerns through two distinct agents:
 ### 1. Memory Extraction
 The system analyzes 30 raw messages to build a user profile.
 
-![Memory Extraction Output](PLACEHOLDER_FOR_JSON_SCREENSHOT)
+![Memory Extraction Output](assets/memory.png)
 
 ### 2. Persona Adaptation
 The engine generates distinct responses to the same user query ("I'm worried about my applications") based on the active persona configuration.
 
 **Persona: Calm Mentor**
 *Note: The system filters out anime references and focuses on academic facts (LoR, Deadlines).*
-![Calm Mentor Response](PLACEHOLDER_FOR_MENTOR_SCREENSHOT)
+![Calm Mentor Response](assets/calm.png)
 
 **Persona: Witty Friend**
 *Note: The system activates pop-culture memories (Solo Leveling, Gym PRs) and adopts a casual tone.*
-![Witty Friend Response](PLACEHOLDER_FOR_FRIEND_SCREENSHOT)
+![Witty Friend Response](assets/witty.png)
 
 **Persona: Therapist**
 *Note: The system focuses on emotional patterns and anxiety triggers identified in the memory profile.*
-![Therapist Response](PLACEHOLDER_FOR_THERAPIST_SCREENSHOT)
+![Therapist Response](assets/therapist.png)
 
 ## Installation & Usage
 
