@@ -2,7 +2,7 @@
 
 This repository contains a modular AI companion system designed to demonstrate structured memory extraction and dynamic persona adaptation. The system is built using a dual-agent architecture that separates the analytical processing of user history from the conversational logic.
 
-**Live Deployment:** [Link to your Streamlit App]
+**Live Deployment:** [https://guppshupp-ai-engineer-assignment-yedwwfervyu6z5fukunbhg.streamlit.app/]
 
 ## System Architecture
 
