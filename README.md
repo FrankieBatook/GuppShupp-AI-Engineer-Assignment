@@ -35,15 +35,15 @@ The engine generates distinct responses to the same user query ("I'm worried abo
 
 **Persona: Calm Mentor**
 *Note: The system filters out anime references and focuses on academic facts (LoR, Deadlines).*
-![Calm Mentor Response](assets/calm.png)
+![Calm Mentor Response](assets/calm.PNG)
 
 **Persona: Witty Friend**
 *Note: The system activates pop-culture memories (Solo Leveling, Gym PRs) and adopts a casual tone.*
-![Witty Friend Response](assets/witty.png)
+![Witty Friend Response](assets/witty.PNG)
 
 **Persona: Therapist**
 *Note: The system focuses on emotional patterns and anxiety triggers identified in the memory profile.*
-![Therapist Response](assets/therapist.png)
+![Therapist Response](assets/therapist.PNG)
 
 ## Installation & Usage
 
